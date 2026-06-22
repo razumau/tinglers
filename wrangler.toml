@@ -1,0 +1,5 @@
+name = "tingle"
+compatibility_date = "2026-06-22"
+
+[assets]
+directory = "./public"
